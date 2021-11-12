@@ -1,2 +1,3 @@
 # python_github_first
-My first Github project
+
+This is an example to demonstrate the use of git on Ubuntu.
